@@ -19,6 +19,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+#home
+{
+  border: none;
+  color: red;
+  opacity: 0.6;
+  transition: 0.1s;
+}
+
+#home:hover {opacity: 1}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
